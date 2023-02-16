@@ -20,13 +20,14 @@ A curated list of awesome libraries, packages and resources, and datasets for me
 - [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 
-##Datasets
-##MRI
+## Datasets
+
+### MRI
 
 -[Neurite-OASIS](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md) -   MRI images for segmentation
 -[SynthStrip](https://w3id.org/synthstrip) -   MRI, CT, and PET scans for glioblastoma
 
-##X-Ray
+### X-Ray
 
 - [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) - X-ray chest radiographs 
 - [ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)
@@ -36,5 +37,5 @@ A curated list of awesome libraries, packages and resources, and datasets for me
 - [Cancer Image Archive](http://www.cancerimagingarchive.net/) - Several collections   CT, MR, Pathology, PT, with diagnoses  
 - [National Lung Screening Trial](https://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial) - Cancer imaging, CT data 
 
-## CT
+### CT
 - [DeepLesion](https://nihcc.app.box.com/v/DeepLesion) - CT scans
