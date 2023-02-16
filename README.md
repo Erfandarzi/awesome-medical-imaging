@@ -24,8 +24,8 @@ A curated list of awesome libraries, packages and resources, and datasets for me
 
 ### MRI
 
--[Neurite-OASIS](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md) -   MRI images for segmentation
--[SynthStrip](https://w3id.org/synthstrip) -   MRI, CT, and PET scans for glioblastoma
+- [Neurite-OASIS](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md) -   MRI images for segmentation
+- [SynthStrip](https://w3id.org/synthstrip) -   MRI, CT, and PET scans for glioblastoma
 
 ### X-Ray
 
